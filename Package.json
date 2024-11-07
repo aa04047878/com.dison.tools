@@ -1,5 +1,5 @@
-﻿{
-  "name": "com.Dison.Tools",
+{
+  "name": "com.dison.tools",
   "version": "1.0.0",
   "displayName": "Dison",
   "description": "場景控制 : 切換場景 & 離開遊戲",
